@@ -3,4 +3,40 @@
     padding: 0;
     box-sizing: border-box;
   }
+
+  /* Main */
+main {
+    padding: 1em;
+  }
+  
+  /* Secciones */
+  section {
+    margin-bottom: 1em;
+  }
+  
+  section h2 {
+    font-size: 20px;
+    margin-top: 0;
+  }
+  
+  section p {
+    margin-bottom: 1em;
+  }
+  
+  /* Experiencia laboral */
+  #experiencia-laboral ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #experiencia-laboral li {
+    margin-bottom: 1em;
+    padding: 0.5em;
+    border: 1px solid #ddd;
+  }
+  
+  #experiencia-laboral h3 {
+    font-size: 18px;
+    margin: 0;
+  }
   
